@@ -61,11 +61,6 @@ name = "About"
 url = "about/"
 weight = 2
 
-[[menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 3
-
 # deult parameter
 [params]
 logo = "images/logo.png"
@@ -77,12 +72,13 @@ description = "This is meta description"
 # Preloader
 preloader = true
 # search
-search = true
+search = false
 # about author
 author = "John Doe"
 author_image = "images/banner-img.png"
 bio = ""
 # Contact info
+email = "info@venuscloud.com"
 address = "London, United Kingdom"
 # Contact Form Action
 contact_form_action = "#"
