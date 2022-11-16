@@ -55,7 +55,7 @@
 git clone git@github.com:themefisher/parsa-hugo.git
 
 # cd in the project directory
-$ cd parsa-hugo/exampleSite/
+$ cd parsa-hugo/chasePic/
 
 # Start local dev server
 $ hugo server --themesDir ../..
