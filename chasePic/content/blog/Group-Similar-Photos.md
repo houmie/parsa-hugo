@@ -1,5 +1,5 @@
 ---
-title: "Groups Similar Photos - Picks Best For You"
+title: "Groups Similar Photos - Picks the Best for You"
 date: 2022-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "post"
