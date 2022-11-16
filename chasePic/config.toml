@@ -1,7 +1,7 @@
 # default config
-baseurl = "https://demo.gethugothemes.com/parsa/chasePic/"
+baseurl = "https://chasepic.com/"
 languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+title = "ChasePic - Find Your Best Self"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
