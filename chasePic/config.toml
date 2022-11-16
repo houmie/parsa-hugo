@@ -98,12 +98,12 @@ expire_days = 2
 # social site
 [[params.social]]
 icon = "ti-facebook"
-link = "https://facebook.com/chasepic"
+link = "https://facebook.com/ChasePicApp"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/ChasePicApp"
 
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "https://instagram.com/chasepicapp"
