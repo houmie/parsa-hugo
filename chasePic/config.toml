@@ -85,6 +85,10 @@ contact_form_action = "#"
 # copyright
 copyright = "Copyright &copy; 2022 by [Venus Cloud Ltd](https://venuscloud.com)"
 
+[params.policy]
+url="privacy-policy"
+name="Privacy Policy"
+
 # Instagram feed
 [params.instafeed]
 enable = true
