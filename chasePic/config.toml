@@ -94,6 +94,10 @@ name="Privacy Policy"
 enable = true
 access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
 
+# MailChimp feed
+[params.mailchimp]
+enable = true
+
 # cookies
 [params.cookies]
 enable = true
