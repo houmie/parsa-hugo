@@ -83,7 +83,7 @@ address = "London, United Kingdom"
 # Contact Form Action
 contact_form_action = "#"
 # copyright
-copyright = "Copyright &copy; 2022 by [Venus Cloud Ltd](https://venuscloud.com)"
+copyright = "Copyright &copy; 2022 by Venus Cloud Ltd"
 
 [params.policy]
 url="privacy-policy"
